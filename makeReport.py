@@ -1,4 +1,5 @@
 # usage: on cobalt execute 
+# $source /cvmfs/ara.opensciencegrid.org/trunk/centos7/setup.sh
 # $python makeReport.py STATION1B 7 
 # to get ara1 data for the last 7 days and
 # $python makeReport.py STATION3 7
